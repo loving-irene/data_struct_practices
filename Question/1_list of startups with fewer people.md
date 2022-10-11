@@ -1,0 +1,10 @@
+### Requirements
+add new name
+
+query name
+
+del name
+
+update name
+
+people size < 100
