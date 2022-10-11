@@ -7,4 +7,4 @@ Ask a question,then design a data struct to solve it.Then boost the data size an
 
 ### Content
 below are questions details.
-1.  [List of startups with fewer people](1#Requirements)
+1.  [List of startups with fewer people](Question/1#Requirements)
