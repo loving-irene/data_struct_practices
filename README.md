@@ -1,10 +1,13 @@
-### Description
+### 背景说明
+作为一个初学者，市面上的数据结构教程，其内容编排和讲解方式对于我来讲，显得不够简单和直接，于是
+萌生了一个想法，自己写一本《数据结构练习集》，记录下自己学习数据结构的过程。
 
-A learning practices set about data structs.
+本练习集，通过提出问题、设计数据结构来解决问题这样的模式，以实战为主，在解决问题的过程中学习一
+些概念。
 
-Ask a question,then design a data struct to solve it.Then boost the data size and repeat the appeal steps.
+### Slogon
+越简单越好
 
-
-### Content
-below are questions details.
-1.  [List of startups with fewer people](https://github.com/loving-irene/data_struct_practices/blob/master/Question/1.md#Requirements)
+### 内容
+下面是一些具体的问题，并配以对应的数据结构设计
+1.  [初创公司人员名单记录](https://github.com/loving-irene/data_struct_practices/blob/master/Question/1.md#Description)

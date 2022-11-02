@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/data_struct_practices.dir/Question/1_optional.c.o  -o data_struct_practices.exe -Wl,--out-implib,libdata_struct_practices.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
